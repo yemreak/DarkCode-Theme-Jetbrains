@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.yemreak.DarkCode-Theme</id>
-    <name>DarkCode Theme</name>
+    <name>🖤 DarkCode Theme</name>
     <vendor email="yemreak.com@gmail.com" url="https://github.com/yedhrab/DarkCode-Theme-JB">YEmreAk</vendor>
 
     <description><![CDATA[
@@ -10,24 +10,6 @@
 			   href="https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown">DarkCode
 				Theme</a></p>
 	</blockquote>
-	<h2 id="%F0%9F%92%96-support-contact">💖 Support &amp; Contact</h2>
-	<p>​<a href="https://github.com/yedhrab">​<img
-				 src="https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5"
-				 alt="Github">​</a> <a href="https://www.linkedin.com/in/yemreak/">​<img
-				 src="https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ"
-				 alt="LinkedIn">​</a> <a href="https://yemreak.com/">​<img
-				 src="https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ"
-				 alt="Website">​</a> <a href="mailto::yedhrab@gmail.com?subject=DarkCode-Theme%20%7C%20Github">​<img
-				 src="https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN"
-				 alt="Mail">​</a>​</p>
-	<p>​<a href="https://www.patreon.com/yemreak/">​<img
-				 src="https://drive.google.com/uc?id=11YmCRmySX7v7QDFS62ST2JZuE70RFjDG"
-				 alt="Patreon"></a></p>
-	<h2 id="%F0%9F%94%8F-license">🔏 License</h2>
-	<p><strong>The</strong> <a href="https://choosealicense.com/licenses/apache-2.0/"><strong>Apache 2.0
-				License</strong></a> <strong>©️ Yunus Emre Ak</strong></p>
-	<p><img src="https://drive.google.com/uc?id=1Wd_YLVOkAhXPVqFMx_aZyFvyTy_88H-Z"
-			 alt="YEmreAk"></p>
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
@@ -36,8 +18,8 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="2d45127e-4bdb-4d47-b948-71bd636b11b0" path="/themes/DarkCode.theme.json"/>
         <themeProvider id="b5322b82-6e31-4189-bbde-dd56ecc6bd3d" path="/themes/DarkCode_Contrast.theme.json"/>
+        <themeProvider id="2d45127e-4bdb-4d47-b948-71bd636b11b0" path="/themes/DarkCode.theme.json"/>
     </extensions>
 
     <actions>

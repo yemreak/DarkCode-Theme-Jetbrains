@@ -18,6 +18,7 @@ dependencies {
 intellij {
     version = "2019.3.3"
 }
+
 tasks {
     compileKotlin {
         kotlinOptions.jvmTarget = "1.8"
@@ -26,11 +27,13 @@ tasks {
         kotlinOptions.jvmTarget = "1.8"
     }
 }
+
 tasks.getByName<org.jetbrains.intellij.tasks.PatchPluginXmlTask>("patchPluginXml") {
-    changeNotes("""
+    changeNotes(
+        """
       <ul>
-        <li>DarkCode and Contrast Theme converted</li>
-        <li>⚗️ Beta version</li>
+        <li>VS Code DarkCode and Contrast Theme converted to JetBrains IDEs</li>
       </ul>
-      """)
+      """
+    )
 }
