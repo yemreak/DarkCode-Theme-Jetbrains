@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.yemreak"
-version = "1.0.0"
+version = "1.0.1"
 
 repositories {
     mavenCentral()
@@ -29,11 +29,22 @@ tasks {
 }
 
 tasks.getByName<org.jetbrains.intellij.tasks.PatchPluginXmlTask>("patchPluginXml") {
-    changeNotes(
-        """
-      <ul>
-        <li>VS Code DarkCode and Contrast Theme converted to JetBrains IDEs</li>
-      </ul>
-      """
-    )
+    val sinceBuild = "191" // Android compatibility
+
+    val changelogPath = "$projectDir/.github/assets/CHANGELOG.html"
+    val readmePath = "$projectDir/.github/assets/README.html"
+
+    sinceBuild(sinceBuild)
+
+    if (file(changelogPath).exists()) {
+        changeNotes(file(changelogPath).readText(Charsets.UTF_8))
+    }
+
+    if (file(readmePath).exists()) {
+        pluginDescription(file(readmePath).readText(Charsets.UTF_8))
+    }
+}
+
+tasks.publishPlugin {
+    token(file(".env").readText())
 }

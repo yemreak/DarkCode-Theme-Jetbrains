@@ -1,24 +1,28 @@
 # 🖤 DarkCode-Theme-JB
-༼ つ ◕_◕ ༽つ Dark theme for cool "JetBrains" coders 👩‍💻👨‍💻
+つ ◕_◕ つ Dark theme for cool "JetBrains" coders
 
 > 💱 Converted version of [DarkCode Theme](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 
-![ui](../.github/assets/ui.png)
-![complation_widget](../.github/assets/complation_widget.png)
-![darkcode_search](../.github/assets/darkcode_search.png)
-![menu](../.github/assets/menu.png)
-![search_widget](../.github/assets/search_widget.png)
-![settings_appearance](../.github/assets/settings_appearance.png)
+## 🤳 Screenshots
 
+<div>
+	<img src="../.github/assets/ui.png" width="500" /> </br>
+	<img src="../.github/assets/complation_widget.png" width="500" /> </br>
+	<img src="../.github/assets/darkcode_search.png" width="500" /> </br>
+	<img src="../.github/assets/menu.png" width="500" /> </br>
+	<img src="../.github/assets/search_widget.png" width="500" /> </br>
+	<img src="../.github/assets/settings_appearance.png" width="500" /> </br>
+</dev>
 
-## 💖 Support & Contact
+## 💖 Destek ve İletişim
 
-​[​![Github](https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5)​](https://github.com/yedhrab) [​![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)​](https://www.linkedin.com/in/yemreak/) [​![Website](https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ)​](https://yemreak.com/) [​![Mail](https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN)​](mailto::yedhrab@gmail.com?subject=DarkCode-Theme%20%7C%20Github)​
+​[​![Github](../.github/assets/github_32px.png)​](https://github.com/yedhrab) [​![LinkedIn](../.github/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](../.github/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](../.github/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=DarkCode-Theme-JB%20%7C%20GitHub)​
 
-​[​![Patreon](https://drive.google.com/uc?id=11YmCRmySX7v7QDFS62ST2JZuE70RFjDG)](https://www.patreon.com/yemreak/)
+​[​![Patreon](../.github/assets/become_a_patron_32px.png)](https://www.patreon.com/yemreak/)
 
-## 🔏 License
+## 🔏 Lisans
 
 **The** [**Apache 2.0 License**](https://choosealicense.com/licenses/apache-2.0/) **©️ Yunus Emre Ak**
 
-![YEmreAk](https://drive.google.com/uc?id=1Wd_YLVOkAhXPVqFMx_aZyFvyTy_88H-Z)
+![YEmreAk](../.github/assets/ysigniture-trans.png)
+
