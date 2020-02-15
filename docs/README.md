@@ -14,13 +14,13 @@
 	<img src="../.github/assets/settings_appearance.png" width="500" /> </br>
 </dev>
 
-## 💖 Destek ve İletişim
+## 💖 Support & Contact
 
 ​[​![Github](../.github/assets/github_32px.png)​](https://github.com/yedhrab) [​![LinkedIn](../.github/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](../.github/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](../.github/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=DarkCode-Theme-JB%20%7C%20GitHub)​
 
 ​[​![Patreon](../.github/assets/become_a_patron_32px.png)](https://www.patreon.com/yemreak/)
 
-## 🔏 Lisans
+## 🔏 License
 
 **The** [**Apache 2.0 License**](https://choosealicense.com/licenses/apache-2.0/) **©️ Yunus Emre Ak**
 
