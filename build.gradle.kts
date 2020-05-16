@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.yemreak"
-version = "1.0.1"
+version = "1.0.2"
 
 repositories {
     mavenCentral()
@@ -16,7 +16,7 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = "2019.3.3"
+    version = "2020.1"
 }
 
 tasks {
