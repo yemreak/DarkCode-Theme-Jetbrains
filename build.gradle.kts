@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.yemreak"
-version = "1.0.2"
+version = "1.0.2.1"
 
 repositories {
     mavenCentral()
@@ -12,11 +12,6 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
-}
-
-// See https://github.com/JetBrains/gradle-intellij-plugin/
-intellij {
-    version = "2020.1"
 }
 
 tasks {
