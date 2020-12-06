@@ -1,0 +1,86 @@
+<idea-plugin>
+  <id>com.yemreak.DarkCode-Theme</id>
+  <name>🖤 DarkCode Theme</name>
+  <version>1.1</version>
+  <vendor email="yemreak.com@gmail.com" url="https://github.com/yedhrab/DarkCode-Theme-JetBrains">YEmreAk</vendor>
+
+  <description><![CDATA[
+      <h1>🖤 DarkCode-Theme-JetBrains</h1>
+      <p>つ ◕_◕ つ Dark theme for cool &quot;JetBrains&quot; coders</p>
+      <blockquote>
+          <p>💱 Converted version of <a
+                  href="https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown">DarkCode
+              Theme</a></p>
+      </blockquote>
+      <h2>🤳 Screenshots</h2>
+      <div>
+          <div>
+              <img src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/ui.png" width="500"/></div>
+          <div><img src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/complation_widget.png"
+                    width="500"/></div>
+          <div><img src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/darkcode_search.png"
+                    width="500"/></div>
+          <div><img src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/menu.png" width="500"/></div>
+          <div><img src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/search_widget.png"
+                    width="500"/></div>
+          <div><img src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/settings_appearance.png"
+                    width="500"/></div>
+      </div>
+      <h2>💖 Support & Contact </h2>
+      <p>​<a href="https://github.com/yedhrab">​<img
+              src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/github_32px.png" alt="Github">​</a>
+          <a href="https://www.linkedin.com/in/yemreak/">​<img
+                  src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/linkedin_32px.png"
+                  alt="LinkedIn">​</a> <a href="https://yemreak.com/">​<img
+                  src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/geography_32px.png"
+                  alt="Website">​</a> <a href="mailto:yemreak.com@gmail.com?subject=DarkCode-Theme-JetBrains%20%7C%20GitHub">​<img
+                  src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/gmail_32px.png" alt="Mail">​</a>​
+      </p>
+      <p>​<a href="https://www.patreon.com/yemreak/">​<img
+              src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/become_a_patron_32px.png"
+              alt="Patreon"></a></p>
+      <h2>🔏 License</h2>
+      <p><strong>The</strong> <a href="https://choosealicense.com/licenses/apache-2.0/"><strong>Apache 2.0
+          License</strong></a> <strong>©️ Yunus Emre Ak</strong></p>
+      <p><img src="https://github.com/yedhrab/DarkCode-Theme-JetBrains/raw/master/assets/ysigniture-trans.png" alt="YEmreAk">
+      </p>
+    ]]></description>
+
+  <change-notes><![CDATA[
+      <h2>🏷️ 1.1</h2>
+      <ul>
+          <li>🤝 Support for 2020.3 IDEs</li>
+          <li>🚀 New icon</li>
+          <li>💻 Code simplify</li>
+      </ul>
+      <h2>🏷️ 1.0.1</h2>
+      <ul>
+          <li>🤝 Added android studio and other old IDEs support</li>
+      </ul>
+      <h2>🏷️ 1.0.0</h2>
+      <ul>
+          <li>🎉 First released</li>
+      </ul>
+    ]]>
+  </change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="7d8f809b-c6ab-45bb-95b3-e54c1009b85a" path="/themes/DarkCode.theme.json"/>
+    <themeProvider id="59e88743-a241-4955-a657-dddefd0b4b6b" path="/themes/DarkCode_Contrast.theme.json"/>
+    <themeProvider id="6595c201-8f0a-4a12-8e69-71e9f56f4617" path="/themes/DarkCode.theme.json"/>
+    <themeProvider id="f50c9b2d-92f0-4f18-8bb0-fc42ec21041b" path="/themes/DarkCode_Contrast.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

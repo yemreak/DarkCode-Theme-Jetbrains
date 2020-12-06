@@ -1,0 +1,19 @@
+<scheme name="DarkCode" version="142" parent_scheme="Darcula">
+    <colors>
+        <option name="CARET_ROW_COLOR" value="202426" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="1c2022" />
+        <option name="DOCUMENTATION_COLOR" value="1c2022" />
+        <option name="GUTTER_BACKGROUND" value="1c2022" />
+        <option name="INFORMATION_HINT" value="1c2022" />
+        <option name="SELECTION_BACKGROUND" value="412f12" />
+    </colors>
+    <attributes>
+        <option name="TEXT">
+            <value>
+                <option name="FOREGROUND" value="bababa" />
+                <option name="BACKGROUND" value="1c2022" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+    </attributes>
+</scheme>

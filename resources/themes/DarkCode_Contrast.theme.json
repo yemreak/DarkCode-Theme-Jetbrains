@@ -1,0 +1,81 @@
+{
+  "name": "DarkCode Contrast",
+  "dark": true,
+  "author": "YEmreAk",
+  "editorScheme": "/themes/DarkCode_Contrast.xml",
+  "colors": {
+    "black": "#000000",
+    "blackS2": "#000000aa",
+    "blackD1": "#111518",
+    "white": "#ffffff",
+    "whiteD1": "#ececec",
+    "whiteD2": "#acacaa",
+    "whiteD2S2": "#acacaaaa",
+    "whiteD3": "#bababa",
+    "brown": "#411e01",
+    "brownS2": "#411e01aa",
+    "brownS3": "#411e0177",
+    "brownS4": "#411e0155",
+    "brownD1": "#282717",
+    "yellow": "#ffc000",
+    "yellowS4": "#ffc00055",
+    "yellowS6": "#ffc00011",
+    "yellowD1": "#bb8b12",
+    "yellowD1S3": "#bb8b1277",
+    "orange": "#ad550d",
+    "orangeS2": "#ad550daa"
+  },
+  "ui": {
+    "*": {
+      "focusColor": "brownS2",
+      "hoverBackground": "brownS4",
+      "selectionBackground": "brown",
+      "selectionInactiveBackground": "brownS3",
+      "Menu.borderColor": "brown",
+      "background": "black",
+      "textBackground": "black",
+      "borderColor": "blackD1",
+      "foreground": "whiteD2",
+      "infoForeground": "yellowD1",
+      "disabledBackground": "blackD1",
+      "yellowSelectBgInactive": "blackS2",
+      "selectionForeground": "white",
+      "inactiveBackground": "blackD1",
+      "disabledForeground": "whiteD2S2",
+      "disabledText": "basicForeS1",
+      "inactiveForeground": "whiteD3",
+      "acceleratorForeground": "#E6E6E6",
+      "acceleratorSelectionForeground": "#E6E6E6",
+      "errorForeground": "#FA3232",
+      "disabledBorderColor": "#AA6E28",
+      "focusedBorderColor": "yellowS6",
+      "hoverBorderColor": "yellowS6",
+      "pressedBorderColor": "yellowS6",
+      "separatorColor": "blackD1",
+      "lineSeparatorColor": "#6A6173"
+    },
+    "Button": {
+      "startBackground": "orangeS2",
+      "endBackground": "orangeS2",
+      "startBorderColor": "orangeS2",
+      "endBorderColor": "orangeS2",
+      "default": {
+        "startBackground": "orangeS2",
+        "endBackground": "orangeS2",
+        "startBorderColor": "orangeS2",
+        "endBorderColor": "orangeS2",
+        "focusedBorderColor": "orange"
+      }
+    },
+    "EditorTabs": {
+      "underlineColor": "yellow",
+      "underlineHeight": 1,
+      "underlinedTabBackground": "brownD1",
+      "underlinedTabForeground": "yellow"
+    },
+    "Borders": {
+      "color": "blackD1",
+      "ContrastBorderColor": "blackD1"
+    }
+  }
+}
