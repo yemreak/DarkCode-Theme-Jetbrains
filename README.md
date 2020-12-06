@@ -1,7 +1,6 @@
-# 🖤 DarkCode-Theme-JB
-つ ◕_◕ つ Dark theme for cool "JetBrains" coders
+# 🖤 DarkCode Theme JetBrains
 
-> 💱 Converted version of [DarkCode Theme](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
+つ ◕_◕ つ Dark theme for cool "JetBrains" coders, simply converted version of [VsCode DarkCode Theme](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 
 ## 🤳 Screenshots
 
